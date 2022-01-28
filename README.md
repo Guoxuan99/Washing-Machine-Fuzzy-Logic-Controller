@@ -23,7 +23,7 @@ Some membership functions:
 ![Screenshot 2022-01-28 172217](https://user-images.githubusercontent.com/65883921/151521159-ada26007-8d6f-40d7-9e17-4dc8c07de74f.png)
 
 
-This system used 27 rules in the inference engine to determine the aggregated output and the defuzzification method used is "Centroid". To provide more usability, we developed an UI so user can interact with the program easily. This is also one of the benefits for using SKFuzzy as it is easy to be integrated with TKinter library.
+This system used 27 rules in the inference engine to determine the aggregated output and the defuzzification method used is "Centroid". To provide more usability, we developed an UI so user can interact with the program easily. This is also one of the benefits of using SKFuzzy since it is easy to be integrated with TKinter library.
 
 
 ![Screenshot 2022-01-28 172303](https://user-images.githubusercontent.com/65883921/151521166-c5b8ac76-e0ba-438f-a16c-cf7eb193b11b.png)
